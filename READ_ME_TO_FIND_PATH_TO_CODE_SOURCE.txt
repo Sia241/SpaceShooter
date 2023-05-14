@@ -1,0 +1,1 @@
+Go to Core>src>exam>spaceshooter>

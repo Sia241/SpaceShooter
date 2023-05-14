@@ -1,0 +1,153 @@
+
+images.png
+size: 4096, 4096
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Starscape00
+  rotate: false
+  xy: 3240, 3004
+  size: 720, 1080
+  orig: 720, 1080
+  offset: 0, 0
+  index: -1
+Starscape01
+  rotate: false
+  xy: 0, 244
+  size: 1080, 3840
+  orig: 1080, 3840
+  offset: 0, 0
+  index: -1
+Starscape02
+  rotate: false
+  xy: 2160, 244
+  size: 1080, 3840
+  orig: 1080, 3840
+  offset: 0, 0
+  index: -1
+Starscape03
+  rotate: false
+  xy: 1080, 244
+  size: 1080, 3840
+  orig: 1080, 3840
+  offset: 0, 0
+  index: -1
+dust_particle
+  rotate: false
+  xy: 3240, 2629
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 552, 112
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: 3
+enemy1
+  rotate: false
+  xy: 3960, 3930
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: 2
+enemy2
+  rotate: false
+  xy: 0, 0
+  size: 124, 106
+  orig: 124, 106
+  offset: 0, 0
+  index: 1
+enemy_laser
+  rotate: false
+  xy: 124, 31
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 0, 106
+  size: 552, 138
+  orig: 552, 138
+  offset: 0, 0
+  index: -1
+player_laser
+  rotate: false
+  xy: 4080, 4043
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+player_ship
+  rotate: false
+  xy: 725, 137
+  size: 103, 107
+  orig: 103, 107
+  offset: 0, 0
+  index: -1
+powerup1
+  rotate: false
+  xy: 3528, 2924
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+powerup2
+  rotate: false
+  xy: 3960, 3850
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 3240, 2563
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 828, 172
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+rock3
+  rotate: false
+  xy: 3413, 2893
+  size: 115, 111
+  orig: 115, 111
+  offset: 0, 0
+  index: -1
+rock4
+  rotate: false
+  xy: 3240, 2726
+  size: 152, 146
+  orig: 152, 146
+  offset: 0, 0
+  index: -1
+rock5
+  rotate: false
+  xy: 3240, 2872
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 3337, 2672
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+space_thrust
+  rotate: false
+  xy: 124, 62
+  size: 132, 44
+  orig: 132, 44
+  offset: 0, 0
+  index: -1
